@@ -3,7 +3,7 @@
 <br>
 As of right now not all project file variants have not been organized for github and it is not recommended to copy the code for replication of the project.
 The official deadline for the project has already passed and thus further development will be inconsistent and is not guaranteed.
-This is merely a place holder for possible future work on this project as I have time.
+This is merely a place holder for possible future work on this project for when I have time.
 <br><br><br>
 <img src="images/IMG_2.png" alt="Boat side view" width="800"/>
 <br><br><br><br><br>
