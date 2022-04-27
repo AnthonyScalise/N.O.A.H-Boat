@@ -1,0 +1,32 @@
+{
+    "authors": {
+        "name": "Bryce Williams",
+        "url": "https://os.mbed.com/users/electromotivated/"
+    },
+    "build": {
+        "builder": "MbedLibBuilder"
+    },
+    "description": "Basic but robust PID library",
+    "examples": [
+        "https://os.mbed.com/users/electromotivated/code/ESP8266_pid_mtrPos_webserver_SDcard_v2/",
+        "https://os.mbed.com/users/electromotivated/code/ESP8266_pid_mtrSpeed_Webserver_SDcard/",
+        "https://os.mbed.com/users/electromotivated/code/ESP8266_pid_spd_and_pos_webserver_SDcard/",
+        "https://os.mbed.com/users/electromotivated/code/ESP8266_pid_redbot_webserver/",
+        "https://os.mbed.com/users/ihl396/code/4180_lab4_project/",
+        "https://os.mbed.com/users/tgw/code/car_test_v1/",
+        "https://os.mbed.com/users/electromotivated/code/pid_encoder_speed_demo/",
+        "https://os.mbed.com/teams/ECE/code/GestureControlled-RC-Car/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "control",
+        "pid"
+    ],
+    "name": "PID",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/electromotivated/code/PID/"
+    },
+    "version": "0.0.0+sha.0cf2f6d13c71"
+}
